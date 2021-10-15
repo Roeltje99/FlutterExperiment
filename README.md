@@ -1,6 +1,8 @@
-# untitled
+![Example Image](/assets/ExampleImage.png)
 
-A new Flutter project.
+# Flutter Project
+
+This project is a test for Flutter
 
 ## Getting Started
 
